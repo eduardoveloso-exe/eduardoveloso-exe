@@ -9,7 +9,7 @@ Knowledge with programming languages | HTML5 | CSS3 | JavaScript
 - 📫 How to reach me: contacteduardoveloso@gmail.com
 
 <div>
-  <a href="https://github.com/eduardovloso"/>
+  <a href="https://github.com/eduardoveloso-exe"/>
   <img height="147em" src="https://github-readme-stats.vercel.app/api?username=eduardovloso&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117"/>
   <img height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovloso&layout=compact&hide_border=true&langs_count=168&theme=dark&bg_color=0d1117"/>
 </div>
@@ -23,7 +23,7 @@ Knowledge with programming languages | HTML5 | CSS3 | JavaScript
   ##
  
 <div> 
-  <a href="https://instagram.com/eduardo_vloso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/eduardoveloso.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:contacteduardoveloso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-veloso-skoretzky-291a77256" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
