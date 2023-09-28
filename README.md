@@ -10,8 +10,8 @@ Knowledge with programming languages | HTML5 | CSS3 | JavaScript
 
 <div>
   <a href="https://github.com/eduardoveloso-exe"/>
-  <img height="147em" src="https://github-readme-stats.vercel.app/api?username=eduardovloso&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117"/>
-  <img height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovloso&layout=compact&hide_border=true&langs_count=168&theme=dark&bg_color=0d1117"/>
+  <img height="147em" src="https://github-readme-stats.vercel.app/api?username=eduardoveloso-exe&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117"/>
+  <img height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoveloso-exe&layout=compact&hide_border=true&langs_count=168&theme=dark&bg_color=0d1117"/>
 </div>
 
 <div style="display: inline_block"><br>
