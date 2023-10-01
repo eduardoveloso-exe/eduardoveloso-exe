@@ -5,7 +5,7 @@ Systems Analysis and Development Student | Front End Developer
 Knowledge with programming languages | HTML5 | CSS3 | JavaScript
 
 - 🔭 Currently working on Odonto Excellente Franchising as a Relationship Manager
-- 🌱 Currently learning JavaScript
+- 🌱 Currently training Full Stack JavaScript
 - 📫 How to reach me: contacteduardoveloso@gmail.com
 
 <div>
