@@ -1,10 +1,9 @@
 ## Hi there! I'm Eduardo Veloso 👋
 
-Systems Analysis and Development Student | Front End Developer
+Systems Analysis and Development Student | Fullstack Developer
 
 Knowledge with programming languages | HTML5 | CSS3 | JavaScript
 
-- 🔭 Currently working on Odonto Excellente Franchising as a Relationship Manager
 - 🌱 Currently training Full Stack JavaScript
 - 📫 How to reach me: contacteduardoveloso@gmail.com
 
