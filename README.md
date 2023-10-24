@@ -1,4 +1,4 @@
-## Hello there! I'm Eduardo Veloso 👋
+## Hi there! I'm Eduardo Veloso 👋
 
 Systems Analysis and Development Student | Front End Developer
 
